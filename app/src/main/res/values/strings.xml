@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">BT tracker</string>
+    <string name="log_body_temperature">Log Body Temperature</string>
+    <string name="chack_normal_range">Chack Normal Range</string>
+    <string name="mechanism_of_fever">Mechanism of Fever</string>
+    <string name="handling_fever">Handling Fever</string>
 </resources>
